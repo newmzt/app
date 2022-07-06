@@ -1,0 +1,9 @@
+{
+    "api":"https://api.iimzt.com/app/",
+    "mzt":"https://i.iimzt.com/app/",
+    "update":{
+        "version" : "3.5.1",
+        "tips" : "进行了一些改进，使用美之图为您提供更好的体验。\b",
+        "url":"https://npm.elemecdn.com/newmzt@3.5.1/mmzztt.apk",
+    }
+}

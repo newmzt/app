@@ -1,0 +1,19 @@
+{
+  "name": "newmzt",
+  "version": "3.5.1",
+  "description": "mmzztt app for android",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/newmzt/app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/newmzt/app/issues"
+  },
+  "homepage": "https://github.com/newmzt/app#readme"
+}
